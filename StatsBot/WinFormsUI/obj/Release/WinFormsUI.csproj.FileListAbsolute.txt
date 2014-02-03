@@ -1,0 +1,10 @@
+C:\Users\jmkane\Desktop\Test Environment\Using net programming with SAS\StatsBot\WinFormsUI\bin\Release\license.txt
+C:\Users\jmkane\Desktop\Test Environment\Using net programming with SAS\StatsBot\WinFormsUI\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\jmkane\Desktop\Test Environment\Using net programming with SAS\StatsBot\WinFormsUI\bin\Release\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\jmkane\Desktop\Test Environment\Using net programming with SAS\StatsBot\WinFormsUI\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jmkane\Desktop\Test Environment\Using net programming with SAS\StatsBot\WinFormsUI\obj\Release\WeifenLuo.WinFormsUI.Docking.Resources.resources
+C:\Users\jmkane\Desktop\Test Environment\Using net programming with SAS\StatsBot\WinFormsUI\obj\Release\WeifenLuo.WinFormsUI.Docking.Strings.resources
+C:\Users\jmkane\Desktop\Test Environment\Using net programming with SAS\StatsBot\WinFormsUI\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\jmkane\Desktop\Test Environment\Using net programming with SAS\StatsBot\WinFormsUI\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\jmkane\Desktop\Test Environment\Using net programming with SAS\StatsBot\WinFormsUI\obj\Release\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\jmkane\Desktop\Test Environment\Using net programming with SAS\StatsBot\WinFormsUI\obj\Release\WeifenLuo.WinFormsUI.Docking.pdb
